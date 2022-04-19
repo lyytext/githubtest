@@ -6,5 +6,6 @@ public class test {
         System.out.println("我爱你");
         System.out.println("超凡");
         System.out.println("李瑶瑶");
+        System.out.println("master");
     }
 }
