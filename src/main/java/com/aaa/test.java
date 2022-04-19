@@ -9,5 +9,7 @@ public class test {
         System.out.println("master");
         System.out.println("hot-fixtest1");
         System.out.println("push");
+        System.out.println("努力");
+        
     }
 }
